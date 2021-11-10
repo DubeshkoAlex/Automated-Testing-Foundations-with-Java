@@ -1,0 +1,7 @@
+2021-11-08 20:25:18 INFO  LogUtil:9 - Converting from JsonFile to class cars.RootCarsObject.
+2021-11-08 20:25:19 INFO  LogUtil:9 - Trying to write result in file src/outputFiles/result.txt.
+2021-11-08 20:25:19 INFO  LogUtil:9 - Successful recording
+2021-11-08 20:25:19 INFO  LogUtil:9 - Trying to write result in file src/outputFiles/result.txt.
+2021-11-08 20:25:19 INFO  LogUtil:9 - Successful recording
+2021-11-08 20:25:19 INFO  LogUtil:9 - Trying to write result in file src/outputFiles/result.txt.
+2021-11-08 20:25:19 INFO  LogUtil:9 - Successful recording
